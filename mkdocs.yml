@@ -1,0 +1,38 @@
+site_name: Yu Takahashi
+copyright: 'Copyright (c) 2021 - Yu Takahashi'
+
+# navigation
+nav:
+  - 'index.md'
+  - 'publications.md'
+  - 'publications-j.md'
+# theme
+theme:
+  name: material
+  language: ja
+  font: 'IBM Plex Sans'
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: switch to light mode
+        
+# extra css
+extra_css:
+  - stylesheets/extra.css
+
+# extensions
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
