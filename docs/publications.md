@@ -8,7 +8,7 @@
 - [Blind Spatial Subtraction Array For Hands-Free Speech Recognition](https://drive.google.com/open?id=1Ph1PIAgQ6aGVPAASzCnzN8vv9-zaX97S)
 
 ## Book Chapters
-1. Hiroshi Saruwatari, <u>Yu Takahashi</u>, “Blind source separation for speech application under real acoustic environment (in book chapter),” ependent Component Analysis for Audio and Biosignal Applications (G. Naik Ed.), pp.41-66, ISBN 978-953-51-0782-8, InTech Publishing, 2012.
+1. Hiroshi Saruwatari, <u>Yu Takahashi</u>, “Blind source separation for speech application under real acoustic environment (in book chapter),” Inpendent Component Analysis for Audio and Biosignal Applications (G. Naik Ed.), pp.41-66, ISBN 978-953-51-0782-8, InTech Publishing, 2012.
 
 ## Journal Papers
 1. Kentaro Tachibana, <u>Yu Takahashi</u>, Yoshimitsu Mori, Hiroshi Saruwatari,Kiyohiro Shikano and Akira Tanaka, “Fast Nonclosed-Form Higher-Order ICA with Frequency-Subband Selection Using Closed-Form Second-Order ICA,” Journal of Signal Processing, vol.12, no.4, pp.327–330, 2008.
