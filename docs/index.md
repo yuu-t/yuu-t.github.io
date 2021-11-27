@@ -28,7 +28,7 @@ And in addition, I have diverse skills as an engineer, which are extensive exper
     - Modeling of expert's operation for audio equipments
     - Audio effect parameter estimation based on neural network
 
-## Socil Activities
+## Social Activities
 - Belongs to:
     - [IEEE](https://www.ieee.org)/[SPS](https://signalprocessingsociety.org/), [ASJ](https://acoustics.jp/), [JSAI](https://www.ai-gakkai.or.jp)
 - Reiviewer:
@@ -44,7 +44,7 @@ And in addition, I have diverse skills as an engineer, which are extensive exper
 :material-office-building: Researcher & Software Engineer at Yamaha Corporation, 2010
 
 :material-school: Ph.D. Eng in Computer Science, 2010,
-    - [Nara Institute of Sciene and Technolog (NAIST)](http://www.naist.jp/en/)
+    - [Nara Institute of Sciene and Technology (NAIST)](http://www.naist.jp/en/)
 
 :material-school: M.E. in Computer Science, 2007
     - [Nara Institute of Science and Technology (NAIST)](http://www.naist.jp/en/)
